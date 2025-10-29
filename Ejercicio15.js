@@ -1,5 +1,5 @@
-function saludo(nombre = "Amigo") {
+function saludo2(nombre = "Amigo") {
     return "Hola " + nombre;
 }
-console.log(saludo("Eder"));
-console.log(saludo());
+console.log(saludo2("Eder"));
+console.log(saludo2());
